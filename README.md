@@ -17,7 +17,7 @@ Russian Translation Below:
 # Setting up
 * Install Node.JS (recommended v16) and Yarn if it is not preset in your Node.JS installation, and the Go (recommended 1.19) Programming Language
 * Clone the repository
-* In the `client` directory, execute the following command to install all packages:
+* In the `web` directory, execute the following command to install all packages:
 ```
 yarn
 ```
