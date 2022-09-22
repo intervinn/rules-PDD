@@ -1,6 +1,6 @@
 # Rules-PDD
 A simple quiz app to check your knowledge of traffic rules in Russian Federation.
-I made this as a project for Health and Life Safety subject, just to correct my F.
+I made this as a project for Health and Life Safety subject, and just to correct my F.
 
 This has been created with Go with Fiber for backend and TypeScript with React for frontend.
 
