@@ -23,11 +23,11 @@ yarn
 ```
 
 # Running
-* Create a new terminal process in `server` directory and execute the following command:
+* Create a new terminal process in `api` directory and execute the following command:
 ```
 go run main.go
 ```
-* Create a new terminal process in `client` directory and execute the following command:
+* Create a new terminal process in `web` directory and execute the following command:
 ```
 yarn start
 ```
