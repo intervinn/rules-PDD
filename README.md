@@ -4,8 +4,6 @@ I made this as a project for Health and Life Safety subject, just to correct my 
 
 This has been created with Go with Fiber for backend and TypeScript with React for frontend.
 
-Russian Translation Below:
-
 # Правила-ПДД
 Простой веб-опрос по ПДД, сделанный чтобы проверить ваши знания по ПДД в РФ.
 Я написал это веб-приложение вместо простой презентации или рисунка по ОБЖ, и просто чтобы исправить двойку.
