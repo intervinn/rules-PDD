@@ -12,7 +12,7 @@ Russian Translation Below:
 
 Данный вебсайт сделан с помощью Go и фреймворком Fiber для бэкенда, и TypeScript с фреймворком React для фронтэнда.
 
-Далее будет написано исключительно на английском.
+
 
 # Setting up
 * Install Node.JS (recommended v16) and Yarn if it is not preset in your Node.JS installation, and the Go (recommended 1.19) Programming Language
@@ -28,6 +28,24 @@ yarn
 go run main.go
 ```
 * Create a new terminal process in `web` directory and execute the following command:
+```
+yarn start
+```
+
+# Установка
+* Скачайте Node.JS (Желательно версии 16), Yarn если он не установился вместе с Node, и язык программирования Go (желательно версии 1.19)
+* Клонируйте репозиторий
+* Создайте новый терминал в папке `web` и установите все нужные пакеты следующей командой:
+```
+yarn
+```
+
+# Запуск
+* Создайте новый терминал в папке `api` и напишите следующую команду:
+```
+go run main.go
+```
+* Создайте новый терминал в папке `web` и запустите следующую команду:
 ```
 yarn start
 ```
